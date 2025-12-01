@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sentimental Life",
+  "base_artist": "Nanatsukaze Release",
+  "createdAt": "2025-12-01T08:34:20.714143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sentimental Life",
+      "artist": "Nanatsukaze",
+      "has_synced": true,
+      "path": "select/01_Sentimental_Life_Nanatsukaze.lrc"
+    }
+  ]
+}
